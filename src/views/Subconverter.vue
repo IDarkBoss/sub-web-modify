@@ -482,6 +482,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
           "sub作者&lhie1提供": "https://api.dler.io",
           "本地": "http://127.0.0.1:25500",
+          "远程": "http://192.168.188.99:25500",
         },
         backendOptions: [
           {value: "https://url.v1.mk"},
@@ -492,6 +493,7 @@ export default {
           {value: "https://api.wcc.best"},
           {value: "https://api.dler.io"},      
           {value: "http://127.0.0.1:25500"},
+          {value: "http://192.168.188.99:25500"},
         ],
         remoteConfig: [
           {
